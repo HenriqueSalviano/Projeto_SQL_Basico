@@ -1,2 +1,10 @@
-# Projeto_SQL_Basico
-Nesse exemplo, utilizo comandos básicos do SQL para criar um banco de dados, criar uma tabela, inserir e remover dados da tabela, selecionar dados, agrupar dados, realizar operações matemáticas, entre outros.
+# Projeto SQL Básico 
+Nesse Projeto, utilizo comandos básicos do SQL para algumas finalidades, como por exemplo: 
+- Criar um banco de dados,
+- Criar uma tabela,
+- Inserir e remover dados da tabela,
+- Selecionar dados,
+- Agrupar dados,
+- Realizar operações matemáticas.
+
+Algumas cláusula que foram utilizadas, são: SELECT, FROM, WHERE, ORDER BY, GROUP BY, INSERT, UPDATE, ALTER TABLE, DROP, COUNT, SUM, AVG, RAND, CEILING, DELETE. 
